@@ -14,7 +14,7 @@
     "@react-native-community/async-storage": "^1.6.1",
     "expo-sensors": "^6.0.0",
     "expo-web-browser": "^6.0.0",
-    "geo-nearby": "^2.0.1",
+    "geo-nearby": ">=2.0.1",
     "node-libs-react-native": "^1.0.3",
     "react": "16.8.3",
     "react-native": "0.59.8",
