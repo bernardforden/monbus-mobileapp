@@ -1,0 +1,10 @@
+build/
+dist/
+**/node_modules/
+awsconfiguration.json
+google-services.json
+.DS_Store
+.gradle
+__tests__
+**/Pods
+.git

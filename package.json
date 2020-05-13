@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "geo-nearby": "^2.0.1",
+    "react-native-geolocation-service": "^3.0.0"
+  }
+}
